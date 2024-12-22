@@ -12,7 +12,7 @@ A simple and interactive task list application built with `Python` and `CustomTk
 
 ## Screenshots
 
-![Screenshot](path_to_your_screenshot.png)
+![Screenshot](Ex-Screeny.png)
 
 ## Requirements
 
